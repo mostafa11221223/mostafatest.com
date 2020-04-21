@@ -1,0 +1,42 @@
+body{
+	background-image:url("login.jpg")
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+
+ul{
+	list-style-type:none;
+}
+
+.mune{
+    width: 100% ;
+    background: #142b47;
+    overflow: auto;
+
+	
+}
+
+
+img{
+	width:40px;
+	float:right;
+	margin-top:25px
+}
+
+ul li a{
+	text-decoration:none;
+	float:left;
+    margin:20px;
+	font-size:20px;
+	color:#fff;
+	margin-left:50px
+	
+}
+
+li a:hover{
+	color:#F5B041
+	
+}
